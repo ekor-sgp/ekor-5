@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ekor-sgp.github.io/ekor-5/sitemap.xml
